@@ -1,7 +1,7 @@
 ################################
-# Your Name
-# Your Section
-# Your Student ID Number
+# Your Name:kezang dawa
+# Your Section:1me
+# Your Student ID Number:02230264
 ################################
 # REFERENCES
 # Links that you referred while solving
